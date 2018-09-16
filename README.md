@@ -13,10 +13,11 @@ Following aspects will be analysed -
 
 
 ## Structure of the analysis 
-```sh
-    Introduction
-    Pose Questions
-    Data Collection and Wrangling
-    Exploratory Data Analysis
-    Conclusions
-```
+
+- Introduction
+- Pose Questions
+- Data Collection and Wrangling
+- Exploratory Data Analysis
+- Limitations
+- Conclusions
+
